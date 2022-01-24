@@ -3,3 +3,10 @@
 
 *I am full stack but i prefer back end
 *I have worked with Node js, Nest Js, React Js and some other cool stuff
+
+
+### Experience
+
+* Code Of Africa
+* Awesomity Lab
+* Soma tech
